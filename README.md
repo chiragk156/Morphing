@@ -34,7 +34,7 @@ Using [0 -1 0, 1 0 0, 0 0 1]
 ## Output Part-1
 
 ```
-[Link](https://drive.google.com/open?id=1NwXP46lk95wWGTxsUcXCcDG3zq0D9mgI)
+https://drive.google.com/open?id=1NwXP46lk95wWGTxsUcXCcDG3zq0D9mgI
 ```
 
 
@@ -48,7 +48,7 @@ Images and tie point source: learnopencv.com
 ## Output(Image Morphing)
 
 ```
-[Link](https://drive.google.com/open?id=14MD4jdsp2MP0oFap_TSixVtpq9KP6jX)
+https://drive.google.com/open?id=14MD4jdsp2MP0oFap_TSixVtpq9KP6jX
 ```
 
 ```
@@ -57,7 +57,7 @@ Image and tie point source: learnopencv.com
 ## Output(for different image sizes)
 
 ```
-[Link](https://drive.google.com/open?id=1NnWHX6mRUxrTa6rxCo5CgOtqI4mnFS4J)
+https://drive.google.com/open?id=1NnWHX6mRUxrTa6rxCo5CgOtqI4mnFS4J
 ```
 
 ```
@@ -66,5 +66,5 @@ Image and tie point source: learnopencv.com
 ## All Output Images
 
 ```
-[Link](https://drive.google.com/open?id=1fPcdDQe2HteHFjEx1s1x0FNZZgcyFil5)
+https://drive.google.com/open?id=1fPcdDQe2HteHFjEx1s1x0FNZZgcyFil5
 ```
